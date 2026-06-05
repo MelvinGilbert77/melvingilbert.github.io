@@ -1,0 +1,18 @@
+
+Naam: <%voorvoegsel%> <%voorletter%> <%tussenvoegsel%> <%achternaam%>
+Geboortedatum: <%dag%>-<%maand%>-<%jaar%>
+Geboorteplaats: <%geboorteplaats%> 
+Postcode: <%postcode%>
+Woonplaats: <%woonplaats%>
+Adres: <%straat%> <%huisnummer%>
+Telefoonnummer: <%telefoonnummer%>
+EMailadres: <%email%>
+Lokatie vakantiebungalow: <%lokatie%>
+1e voorkeur huurperiode:  <%huurperiode1%>
+2e voorkeur huurperiode:  <%huurperiode2%>
+
+
+
+
+
+
